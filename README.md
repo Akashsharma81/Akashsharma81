@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsharma81&label=Profile%20views&color=0e75b6&style=flat" alt="akashsharma81" /> </p>
 
-- 🌱 I’m currently learning **MERN,NEXT-JS**
+- 🌱 I’m currently learning **MERN & NEXT-JS**
 
 - 📫 How to reach me **aakshsharma1807@gmail.com**
 
